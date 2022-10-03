@@ -1,11 +1,12 @@
 ### Olá, Bem-Vindo! Eu sou o José Romário... 👋
 
 - 🔭 Não estou trabalhando no momento na área, mais estou a em busca da minha primeira oportunidade!
-- 🌱 Estou fazendo graduação de análise e desenvolvimento de sistema na UniCesumar, e estou no módulo 03, Engenharia de Sistema e Banco de dados.
-- 📚 Curso faço cursos por fora na Rocketseat e na B7Web.
+- 📚 Estou fazendo graduação de análise e desenvolvimento de sistema na UniCesumar, e estou no módulo 03, Engenharia de Sistema e Banco de dados.
+- 📝 Curso faço cursos por fora na Rocketseat e na B7Web.
 - 📫 Meu email: jromario2014@gmail.com
+- <a href="https://github.com/jromarioss" target="_blank">linkedin</a>
 
-<div align="center">
+<div align="center" target="_blank">
   <a href="https://github.com/jromarioss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jromarioss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jromarioss&layout=compact&langs_count=7&theme=dark"/>
