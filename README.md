@@ -2,7 +2,7 @@
 
 - 🔭 Não estou trabalhando no momento na área, mais estou a em busca da minha primeira oportunidade!
 - 📚 Estou fazendo graduação de análise e desenvolvimento de sistema na UniCesumar, e estou no módulo 03, Engenharia de Sistema e Banco de dados.
-- 📝 Curso faço cursos por fora na Rocketseat e na B7Web.
+- 📝 E faço cursos por fora, na Rocketseat e na B7Web.
 - 📫 Meu email: jromario2014@gmail.com
 
 <div align="center">
