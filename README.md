@@ -36,3 +36,6 @@
   ![Snake animation](https://github.com/jromarioss/jromarioss/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ### <p align="center">💻 Visitantes no Perfil </p>
+ <img align="relative" src="https://profile-counter.glitch.me/jromarioss/count.svg" > 
