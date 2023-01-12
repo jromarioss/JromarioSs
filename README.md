@@ -5,6 +5,11 @@
 - 📝 E faço cursos por fora, na Rocketseat e na B7Web.
 - 📫 Meu email: jromario2014@gmail.com
 
+<div align="center">
+  ### <p align="center">💻 Visitantes no Perfil </p>
+ <img align="relative" src="https://profile-counter.glitch.me/jromarioss/count.svg" > 
+</div>
+
 <img align="center" alt="" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 
 <div align="center">
@@ -36,6 +41,3 @@
   ![Snake animation](https://github.com/jromarioss/jromarioss/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-  ### <p align="center">💻 Visitantes no Perfil </p>
- <img align="relative" src="https://profile-counter.glitch.me/jromarioss/count.svg" > 
