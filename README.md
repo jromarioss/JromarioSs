@@ -5,6 +5,7 @@
 - 📝 E faço cursos por fora, na Rocketseat e na B7Web.
 - 📫 Meu email: jromario2014@gmail.com
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jromarioss)](https://github.com/jromarioss/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jromarioss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
