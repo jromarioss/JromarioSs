@@ -1,7 +1,7 @@
 ### Olá, Bem-Vindo! Eu sou o José Romário... 👋
 
 - 🔭 Não estou trabalhando no momento na área, mais estou a em busca da minha primeira oportunidade!
-- 📚 Estou fazendo graduação de análise e desenvolvimento de sistema na UniCesumar, e estou no módulo 03, Engenharia de Sistema e Banco de dados.
+- 📚 Estou fazendo graduação de análise e desenvolvimento de sistema na UniCesumar, e estou no módulo 04, Gestão de Pessoas e desenvolvimento de Equipes.
 - 📝 E faço cursos por fora, na Rocketseat e na B7Web.
 - 📫 Meu email: jromario2014@gmail.com
 
