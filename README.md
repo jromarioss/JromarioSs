@@ -1,7 +1,7 @@
 ### Olá, Bem-Vindo! Eu sou o José Romário... 👋
 
 - 🔭 Desenvolvedor JR Fullstack na MBR Tecnologia, trabalhando com .Net e React JS.
-- 📚 Estou fazendo graduação de análise e desenvolvimento de sistema na UniCesumar, e estou no módulo 04, Gestão de Pessoas e desenvolvimento de Equipes.
+- 📚 Estou fazendo graduação de análise e desenvolvimento de sistema na UniCesumar, e estou no módulo 09, Empreendedorismo e Gestã ode projetos.
 - 📝 E faço cursos por fora, na Rocketseat e na B7Web.
 - 📫 Meu email: jromario2014@gmail.com
 
